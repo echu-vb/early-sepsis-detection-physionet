@@ -1,4 +1,5 @@
 Refer to the notebook file in the repository to view the code and write up for this project.
+Check out the trained XGBoost model deployed onto Streamlit for live sepsis monitoring on new patients here: https://continuous-sepsis-intelligence.streamlit.app/
 
 References:
 
